@@ -1,0 +1,3 @@
+test file
+
+Now if I add a second (third) line
